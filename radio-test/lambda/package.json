@@ -1,0 +1,14 @@
+{
+  "name": "alexa-radio-skill",
+  "version": "1.0.0",
+  "description": "An Alexa skill to stream radio hosted on GitHub.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.10.0"
+  }
+}
