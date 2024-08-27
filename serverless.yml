@@ -3,7 +3,7 @@ service: alexa-radio-skill
 provider:
   name: aws
   runtime: nodejs14.x
-  region: us-east-1  # The region where your skill is hosted
+  region: eu-west-1  # The region where your skill is hosted
 
 functions:
   radioSkill:
