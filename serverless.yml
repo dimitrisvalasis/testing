@@ -12,7 +12,7 @@ functions:
     timeout: 10
     events:
       - alexaSkill:  # Automatically connects with the Alexa Skill
-          appId: "YOUR_SKILL_ID"
+          appId: "amzn1.ask.skill.9768837c-d364-425a-9b9f-31be7b1bced3"
 
 plugins:
   - serverless-alexa-skills
